@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "978816484453",
+    "firebase_url": "https://talonka1234-default-rtdb.firebaseio.com",
+    "project_id": "talonka1234",
+    "storage_bucket": "talonka1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978816484453:android:0fa244e0d60b2b10ca728c",
+        "android_client_info": {
+          "package_name": "akalako.nunguna.matinoka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978816484453-88dseoqp779gbbpdlvrf4pv9q9fdniuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBICUoSwh_E03_hn5C8GkVGiyEzO8Ne-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978816484453-88dseoqp779gbbpdlvrf4pv9q9fdniuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978816484453:android:e28b2ca59e46fc12ca728c",
+        "android_client_info": {
+          "package_name": "gg.hayuf.kimtinthunhptinh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978816484453-88dseoqp779gbbpdlvrf4pv9q9fdniuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBICUoSwh_E03_hn5C8GkVGiyEzO8Ne-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978816484453-88dseoqp779gbbpdlvrf4pv9q9fdniuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978816484453:android:b4c047134f6a478bca728c",
+        "android_client_info": {
+          "package_name": "thisss.app.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978816484453-88dseoqp779gbbpdlvrf4pv9q9fdniuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBICUoSwh_E03_hn5C8GkVGiyEzO8Ne-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978816484453-88dseoqp779gbbpdlvrf4pv9q9fdniuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
